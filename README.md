@@ -68,6 +68,6 @@ If you have any questions, issues, or need assistance, please don't hesitate to 
 
 ## License
 
-RateMe is released under the [MIT](https://choosealicense.com/licenses/mit/) License.
+RateMe is released under the [MIT]([https://choosealicense.com/licenses/mit/](https://github.com/B-raihaan/RateMe/blob/main/LICENSE)) License.
 
 Thank you for choosing RateMe! We hope you find our app valuable for your rating and reviewing needs.

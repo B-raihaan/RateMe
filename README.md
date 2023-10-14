@@ -1,5 +1,6 @@
 
 # RateMe - Your Ultimate Rating App
+Explore our product : http://ratingisfun.great-site.net/
 
 
 Welcome to RateMe, your go-to rating app for all your feedback needs! 
